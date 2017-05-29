@@ -1,0 +1,19 @@
+.todoapp .header {
+  text-align: center;
+  font-size: 22px;
+  color: #5788B9;
+}
+
+.new-todo {
+  width: 50%;
+  height: 40px;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 30px;
+  color:gray;
+  border: none;
+}
+
+.new-todo:focus {
+  outline: none;
+}
